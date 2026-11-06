@@ -4,6 +4,6 @@ pen = turtle.Turtle()
 pen.speed(3)
 
 
-pen.circle(50)
+pen.circle(100)
 
 turtle.done()
